@@ -1,0 +1,18 @@
+{
+  "user_overview": {
+    "description": "Task 1.1 \u2014 per-user session/traffic aggregation",
+    "path": "user_overview.csv"
+  },
+  "engagement": {
+    "description": "Task 2 \u2014 engagement metrics + KMeans(k=3) cluster",
+    "path": "engagement.csv"
+  },
+  "experience": {
+    "description": "Task 3 \u2014 experience metrics + KMeans(k=3) cluster",
+    "path": "experience.csv"
+  },
+  "satisfaction": {
+    "description": "Task 4 \u2014 engagement/experience/satisfaction scores + KMeans(k=2) cluster",
+    "path": "satisfaction.csv"
+  }
+}
